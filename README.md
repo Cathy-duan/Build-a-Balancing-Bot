@@ -1,1 +1,1 @@
-# Build-a-Balancing-Bot
+For this assignment you need to build a Balancing Bot. Your bot should be able to balance on its own after a few minutes of training. Perturb the object(knock it down or move it) at least once or twice randomly using your own lines of code. Build a version of this with a slight, creative modification as your own. 
